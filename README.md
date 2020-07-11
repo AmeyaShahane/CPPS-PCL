@@ -1,6 +1,6 @@
 # CPPS-PCL
 
-A Penguin Client Library for Club Penguin Private Servers written in Python.
+Penguin Client Library for Club Penguin Private Servers written in Python.
 
 **Warning:** High ban risk!
 
